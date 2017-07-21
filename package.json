@@ -1,0 +1,21 @@
+{
+  "name": "utiles",
+  "version": "1.0.0",
+  "description": "Proyecto de utilitarios para firma para PPTE",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "util",
+    "firma",
+    "ppte"
+  ],
+  "author": "Sergio Criales",
+  "license": "ISC",
+  "dependencies": {
+    "pemstrip": "0.0.1",
+    "xml-crypto": "^0.10.1",
+    "xmldom": "^0.1.27"
+  }
+}
