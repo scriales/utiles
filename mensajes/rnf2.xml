@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Object Id="06/07/2017 07:10:59" xmlns="http://www.w3.org/2000/09/xmldsig#">
+    <Data xmlns="">
+        <RequestHeader>
+            <Servicio>AGETIC</Servicio>
+            <Metodo>PAGO</Metodo>
+            <FechaRequerimiento>18/07/2017</FechaRequerimiento>
+            <HoraRequerimiento>17:44:44</HoraRequerimiento>
+            <Usuario>BUSA</Usuario>
+            <Password>12345678</Password>
+        </RequestHeader>
+        <RequestData>
+            <CPT>000000000001</CPT>
+            <Canal>UNINET</Canal>
+            <MontoTotal>35.00</MontoTotal>
+            <Moneda>Bolivianos</Moneda>
+            <Pagos>
+                <Pago>
+                    <NumeroCuenta>200000505050</NumeroCuenta>
+                    <NumeroOperacion>1111111</NumeroOperacion>
+                    <FechaOperacion>18/07/2017</FechaOperacion>
+                    <HoraOperacion>17:22:22</HoraOperacion>
+                    <Monto>20.00</Monto>
+                </Pago>
+                <Pago>
+                    <NumeroCuenta>200000606060</NumeroCuenta>
+                    <NumeroOperacion>156791</NumeroOperacion>
+                    <FechaOperacion>18/07/2017</FechaOperacion>
+                    <HoraOperacion>17:33:33</HoraOperacion>
+                    <Monto>15.00</Monto>
+                </Pago>
+            </Pagos>
+        </RequestData>
+    </Data>
+</Object>
