@@ -6,28 +6,28 @@
             <Metodo>PAGO</Metodo>
             <FechaRequerimiento>18/07/2017</FechaRequerimiento>
             <HoraRequerimiento>17:44:44</HoraRequerimiento>
-            <Usuario>BUSA</Usuario>
-            <Password>12345678</Password>
+            <Usuario>busa</Usuario>
+            <Password>iRENghOKRQcxIRy+1Qu32A==</Password>
+            <Canal>UNINET</Canal>
         </RequestHeader>
         <RequestData>
-            <CPT>000000000001</CPT>
-            <Canal>UNINET</Canal>
+            <CPT>950115076195</CPT>
             <MontoTotal>35.00</MontoTotal>
             <Moneda>Bolivianos</Moneda>
             <Pagos>
                 <Pago>
-                    <NumeroCuenta>200000505050</NumeroCuenta>
+                    <NumeroCuenta>00000202020</NumeroCuenta>
                     <NumeroOperacion>1111111</NumeroOperacion>
-                    <FechaOperacion>18/07/2017</FechaOperacion>
+                    <FechaOperacion>12/09/2017</FechaOperacion>
                     <HoraOperacion>17:22:22</HoraOperacion>
-                    <Monto>20.00</Monto>
+                    <Monto>15.00</Monto>
                 </Pago>
                 <Pago>
-                    <NumeroCuenta>200000606060</NumeroCuenta>
+                    <NumeroCuenta>0000033333</NumeroCuenta>
                     <NumeroOperacion>156791</NumeroOperacion>
-                    <FechaOperacion>18/07/2017</FechaOperacion>
+                    <FechaOperacion>12/09/2017</FechaOperacion>
                     <HoraOperacion>17:33:33</HoraOperacion>
-                    <Monto>15.00</Monto>
+                    <Monto>20.00</Monto>
                 </Pago>
             </Pagos>
         </RequestData>

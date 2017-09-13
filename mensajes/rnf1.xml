@@ -6,11 +6,12 @@
             <Metodo>CONSULTA</Metodo>
             <FechaRequerimiento>18/07/2017</FechaRequerimiento>
             <HoraRequerimiento>09:59:52</HoraRequerimiento>
-            <Usuario>BUSA</Usuario>
-            <Password>12345678</Password>
+            <Usuario>BUSA01</Usuario>
+            <Password>vfDUINkFC6HxoKskn1hvkA==</Password>
+            <Canal>UNINET</Canal>
         </RequestHeader>
         <RequestData>
-            <CPT>000000000009</CPT>
+            <CPT>950216766195</CPT>
         </RequestData>
     </Data>
-</Object>
+</Object>h
