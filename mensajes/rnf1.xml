@@ -4,14 +4,14 @@
         <RequestHeader>
             <Servicio>AGETIC</Servicio>
             <Metodo>CONSULTA</Metodo>
-            <FechaRequerimiento>18/07/2017</FechaRequerimiento>
+            <FechaRequerimiento>07/10/2017</FechaRequerimiento>
             <HoraRequerimiento>09:59:52</HoraRequerimiento>
             <Usuario>BUSA01</Usuario>
-            <Password>vfDUINkFC6HxoKskn1hvkA==</Password>
+            <Password>iRENghOKRQcxIRy+1Qu32A==</Password>
             <Canal>UNINET</Canal>
         </RequestHeader>
         <RequestData>
-            <CPT>950216766195</CPT>
+            <CPT>970449097055</CPT>
         </RequestData>
     </Data>
-</Object>h
+</Object>

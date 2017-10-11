@@ -4,30 +4,25 @@
         <RequestHeader>
             <Servicio>AGETIC</Servicio>
             <Metodo>PAGO</Metodo>
-            <FechaRequerimiento>18/07/2017</FechaRequerimiento>
-            <HoraRequerimiento>17:44:44</HoraRequerimiento>
-            <Usuario>busa</Usuario>
+            <FechaRequerimiento>14/09/2017</FechaRequerimiento>
+            <HoraRequerimiento>16:00:00</HoraRequerimiento>
+            <Usuario>BUSA01</Usuario>
             <Password>iRENghOKRQcxIRy+1Qu32A==</Password>
             <Canal>UNINET</Canal>
         </RequestHeader>
         <RequestData>
-            <CPT>950115076195</CPT>
-            <MontoTotal>35.00</MontoTotal>
-            <Moneda>Bolivianos</Moneda>
+            <CPT>970449097055</CPT>
+            <MontoTotal>50.00</MontoTotal>
+            <Moneda>1</Moneda>
             <Pagos>
                 <Pago>
-                    <NumeroCuenta>00000202020</NumeroCuenta>
-                    <NumeroOperacion>1111111</NumeroOperacion>
-                    <FechaOperacion>12/09/2017</FechaOperacion>
-                    <HoraOperacion>17:22:22</HoraOperacion>
-                    <Monto>15.00</Monto>
-                </Pago>
-                <Pago>
-                    <NumeroCuenta>0000033333</NumeroCuenta>
-                    <NumeroOperacion>156791</NumeroOperacion>
-                    <FechaOperacion>12/09/2017</FechaOperacion>
-                    <HoraOperacion>17:33:33</HoraOperacion>
-                    <Monto>20.00</Monto>
+                    <NumeroCuenta>10000018347224</NumeroCuenta>
+                    <NumeroOperacion>10000101</NumeroOperacion>
+                    <FechaOperacion>10/10/2017</FechaOperacion>
+                    <HoraOperacion>16:00:00</HoraOperacion>
+                    <FechaSistema>10/10/2017</FechaSistema>
+                    <HoraSistema>16:00:00</HoraSistema>
+                    <Monto>50.00</Monto>
                 </Pago>
             </Pagos>
         </RequestData>
